@@ -30,3 +30,6 @@ To run any program:
 - **Practice C fundamentals** in a hands-on way.  
 - **Improve problem-solving skills** with real code examples.  
 - **Understand different programming techniques** through practical implementation.  
+
+## License
+This project is licensed under the MIT License.

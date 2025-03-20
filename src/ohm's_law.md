@@ -23,7 +23,7 @@ Where:
   curl -O https://raw.githubusercontent.com/onelrian/c-fundamentals/main/src/ohms_law.c
   ```
 
-#### **3️⃣ Compile & Run the Program**  
+#### **Compile & Run the Program**  
 ```bash
 gcc ohms_law.c -o ohms_law
 ./ohms_law
